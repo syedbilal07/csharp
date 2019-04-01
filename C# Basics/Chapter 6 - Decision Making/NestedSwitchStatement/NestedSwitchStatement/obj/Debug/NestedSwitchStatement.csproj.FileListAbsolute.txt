@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\NestedSwitchStatement\NestedSwitchStatement\bin\Debug\NestedSwitchStatement.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\NestedSwitchStatement\NestedSwitchStatement\bin\Debug\NestedSwitchStatement.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\NestedSwitchStatement\NestedSwitchStatement\bin\Debug\NestedSwitchStatement.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\NestedSwitchStatement\NestedSwitchStatement\obj\Debug\NestedSwitchStatement.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\NestedSwitchStatement\NestedSwitchStatement\obj\Debug\NestedSwitchStatement.pdb

@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingUserDefinedExceptions\CreatingUserDefinedExceptions\bin\Debug\CreatingUserDefinedExceptions.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingUserDefinedExceptions\CreatingUserDefinedExceptions\bin\Debug\CreatingUserDefinedExceptions.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingUserDefinedExceptions\CreatingUserDefinedExceptions\bin\Debug\CreatingUserDefinedExceptions.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingUserDefinedExceptions\CreatingUserDefinedExceptions\obj\Debug\CreatingUserDefinedExceptions.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingUserDefinedExceptions\CreatingUserDefinedExceptions\obj\Debug\CreatingUserDefinedExceptions.pdb

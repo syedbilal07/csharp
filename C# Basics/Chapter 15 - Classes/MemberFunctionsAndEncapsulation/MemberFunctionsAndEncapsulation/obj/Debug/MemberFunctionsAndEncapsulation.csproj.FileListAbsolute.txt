@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\bin\Debug\MemberFunctionsAndEncapsulation.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\bin\Debug\MemberFunctionsAndEncapsulation.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\bin\Debug\MemberFunctionsAndEncapsulation.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\obj\Debug\MemberFunctionsAndEncapsulation.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\obj\Debug\MemberFunctionsAndEncapsulation.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MemberFunctionsAndEncapsulation\MemberFunctionsAndEncapsulation\obj\Debug\MemberFunctionsAndEncapsulation.pdb

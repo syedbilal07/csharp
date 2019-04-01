@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\bin\Debug\Events.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Events\Events\obj\Debug\Events.pdb

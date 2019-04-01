@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\BinaryReaderAndBinaryWriterClass\BinaryReaderAndBinaryWriterClass\bin\Debug\BinaryReaderAndBinaryWriterClass.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\BinaryReaderAndBinaryWriterClass\BinaryReaderAndBinaryWriterClass\bin\Debug\BinaryReaderAndBinaryWriterClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\BinaryReaderAndBinaryWriterClass\BinaryReaderAndBinaryWriterClass\bin\Debug\BinaryReaderAndBinaryWriterClass.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\BinaryReaderAndBinaryWriterClass\BinaryReaderAndBinaryWriterClass\obj\Debug\BinaryReaderAndBinaryWriterClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\BinaryReaderAndBinaryWriterClass\BinaryReaderAndBinaryWriterClass\obj\Debug\BinaryReaderAndBinaryWriterClass.pdb

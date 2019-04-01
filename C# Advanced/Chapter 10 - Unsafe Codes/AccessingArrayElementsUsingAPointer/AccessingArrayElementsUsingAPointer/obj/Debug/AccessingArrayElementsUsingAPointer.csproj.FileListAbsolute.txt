@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\AccessingArrayElementsUsingAPointer\AccessingArrayElementsUsingAPointer\bin\Debug\AccessingArrayElementsUsingAPointer.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\AccessingArrayElementsUsingAPointer\AccessingArrayElementsUsingAPointer\bin\Debug\AccessingArrayElementsUsingAPointer.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\AccessingArrayElementsUsingAPointer\AccessingArrayElementsUsingAPointer\bin\Debug\AccessingArrayElementsUsingAPointer.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\AccessingArrayElementsUsingAPointer\AccessingArrayElementsUsingAPointer\obj\Debug\AccessingArrayElementsUsingAPointer.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\AccessingArrayElementsUsingAPointer\AccessingArrayElementsUsingAPointer\obj\Debug\AccessingArrayElementsUsingAPointer.pdb

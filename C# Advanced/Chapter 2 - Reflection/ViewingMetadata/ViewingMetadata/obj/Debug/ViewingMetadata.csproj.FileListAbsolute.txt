@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\bin\Debug\ViewingMetadata.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\bin\Debug\ViewingMetadata.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\bin\Debug\ViewingMetadata.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\obj\Debug\ViewingMetadata.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\obj\Debug\ViewingMetadata.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ViewingMetadata\ViewingMetadata\obj\Debug\ViewingMetadata.pdb

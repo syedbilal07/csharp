@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\RetrievingTheDataValueUsingAPointer\RetrievingTheDataValueUsingAPointer\bin\Debug\RetrievingTheDataValueUsingAPointer.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\RetrievingTheDataValueUsingAPointer\RetrievingTheDataValueUsingAPointer\bin\Debug\RetrievingTheDataValueUsingAPointer.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\RetrievingTheDataValueUsingAPointer\RetrievingTheDataValueUsingAPointer\bin\Debug\RetrievingTheDataValueUsingAPointer.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\RetrievingTheDataValueUsingAPointer\RetrievingTheDataValueUsingAPointer\obj\Debug\RetrievingTheDataValueUsingAPointer.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\RetrievingTheDataValueUsingAPointer\RetrievingTheDataValueUsingAPointer\obj\Debug\RetrievingTheDataValueUsingAPointer.pdb

@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

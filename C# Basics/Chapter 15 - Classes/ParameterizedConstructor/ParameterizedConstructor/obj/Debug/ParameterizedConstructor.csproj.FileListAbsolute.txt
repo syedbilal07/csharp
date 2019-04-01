@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\ParameterizedConstructor.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\ParameterizedConstructor.pdb

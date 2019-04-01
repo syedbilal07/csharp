@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\bin\Debug\Collections-Stack.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\obj\Debug\Collections-Stack.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\bin\Debug\Collections-Stack.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\bin\Debug\Collections-Stack.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\obj\Debug\Collections-Stack.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Stack\Collections-Stack\obj\Debug\Collections-Stack.pdb

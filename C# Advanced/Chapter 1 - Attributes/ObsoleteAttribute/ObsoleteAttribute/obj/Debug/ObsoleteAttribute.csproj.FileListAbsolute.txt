@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\bin\Debug\ObsoleteAttribute.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\bin\Debug\ObsoleteAttribute.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\bin\Debug\ObsoleteAttribute.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\obj\Debug\ObsoleteAttribute.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\obj\Debug\ObsoleteAttribute.pdb
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\ObsoleteAttribute\ObsoleteAttribute\obj\Debug\ObsoleteAttribute.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.pdb

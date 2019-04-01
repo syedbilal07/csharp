@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ClassVsStructure\ClassVsStructure\bin\Debug\ClassVsStructure.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ClassVsStructure\ClassVsStructure\bin\Debug\ClassVsStructure.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ClassVsStructure\ClassVsStructure\bin\Debug\ClassVsStructure.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ClassVsStructure\ClassVsStructure\obj\Debug\ClassVsStructure.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ClassVsStructure\ClassVsStructure\obj\Debug\ClassVsStructure.pdb

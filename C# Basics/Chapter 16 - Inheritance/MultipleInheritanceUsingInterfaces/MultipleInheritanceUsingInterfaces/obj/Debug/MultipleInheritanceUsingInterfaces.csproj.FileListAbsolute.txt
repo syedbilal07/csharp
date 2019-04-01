@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\bin\Debug\MultipleInheritanceUsingInterfaces.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\bin\Debug\MultipleInheritanceUsingInterfaces.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\bin\Debug\MultipleInheritanceUsingInterfaces.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\obj\Debug\MultipleInheritanceUsingInterfaces.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\obj\Debug\MultipleInheritanceUsingInterfaces.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MultipleInheritanceUsingInterfaces\MultipleInheritanceUsingInterfaces\obj\Debug\MultipleInheritanceUsingInterfaces.pdb

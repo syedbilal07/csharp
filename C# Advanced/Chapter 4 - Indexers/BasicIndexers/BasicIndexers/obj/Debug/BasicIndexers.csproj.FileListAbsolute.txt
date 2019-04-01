@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\bin\Debug\BasicIndexers.exe.config
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\bin\Debug\BasicIndexers.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\bin\Debug\BasicIndexers.pdb
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\obj\Debug\BasicIndexers.csprojResolveAssemblyReference.cache
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\obj\Debug\BasicIndexers.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BasicIndexers\BasicIndexers\obj\Debug\BasicIndexers.pdb

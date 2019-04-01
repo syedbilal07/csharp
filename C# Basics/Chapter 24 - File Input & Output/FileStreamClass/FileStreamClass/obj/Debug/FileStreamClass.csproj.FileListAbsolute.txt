@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\bin\Debug\FileStreamClass.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\FileStreamClass\FileStreamClass\obj\Debug\FileStreamClass.pdb

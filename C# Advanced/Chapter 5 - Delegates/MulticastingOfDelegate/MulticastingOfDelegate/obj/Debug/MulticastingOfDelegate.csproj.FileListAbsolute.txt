@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\bin\Debug\MulticastingOfDelegate.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\bin\Debug\MulticastingOfDelegate.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\bin\Debug\MulticastingOfDelegate.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\obj\Debug\MulticastingOfDelegate.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\obj\Debug\MulticastingOfDelegate.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\MulticastingOfDelegate\MulticastingOfDelegate\obj\Debug\MulticastingOfDelegate.pdb

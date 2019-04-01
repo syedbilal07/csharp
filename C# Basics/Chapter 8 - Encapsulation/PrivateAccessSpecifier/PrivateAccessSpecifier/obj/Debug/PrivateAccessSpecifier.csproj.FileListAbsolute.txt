@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PrivateAccessSpecifier\PrivateAccessSpecifier\bin\Debug\PrivateAccessSpecifier.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\PrivateAccessSpecifier\PrivateAccessSpecifier\obj\Debug\PrivateAccessSpecifier.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PrivateAccessSpecifier\PrivateAccessSpecifier\obj\Debug\PrivateAccessSpecifier.pdb

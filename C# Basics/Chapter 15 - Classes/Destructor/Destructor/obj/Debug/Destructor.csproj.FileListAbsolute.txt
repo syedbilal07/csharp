@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Destructor\Destructor\bin\Debug\Destructor.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\Destructor\Destructor\bin\Debug\Destructor.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Destructor\Destructor\bin\Debug\Destructor.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\Destructor\Destructor\obj\Debug\Destructor.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Destructor\Destructor\obj\Debug\Destructor.pdb

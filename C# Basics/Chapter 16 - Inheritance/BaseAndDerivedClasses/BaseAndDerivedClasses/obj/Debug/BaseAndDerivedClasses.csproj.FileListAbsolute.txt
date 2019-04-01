@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\bin\Debug\BaseAndDerivedClasses.exe.config
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\bin\Debug\BaseAndDerivedClasses.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\bin\Debug\BaseAndDerivedClasses.pdb
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\obj\Debug\BaseAndDerivedClasses.csprojResolveAssemblyReference.cache
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\obj\Debug\BaseAndDerivedClasses.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\BaseAndDerivedClasses\BaseAndDerivedClasses\obj\Debug\BaseAndDerivedClasses.pdb

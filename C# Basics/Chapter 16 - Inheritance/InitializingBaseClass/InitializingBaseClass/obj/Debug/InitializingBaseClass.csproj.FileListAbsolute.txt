@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\InitializingBaseClass\InitializingBaseClass\bin\Debug\InitializingBaseClass.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\InitializingBaseClass\InitializingBaseClass\bin\Debug\InitializingBaseClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\InitializingBaseClass\InitializingBaseClass\bin\Debug\InitializingBaseClass.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\InitializingBaseClass\InitializingBaseClass\obj\Debug\InitializingBaseClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\InitializingBaseClass\InitializingBaseClass\obj\Debug\InitializingBaseClass.pdb

@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\bin\Debug\PublicAccessSpecifier.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PublicAccessSpecifier\PublicAccessSpecifier\obj\Debug\PublicAccessSpecifier.pdb

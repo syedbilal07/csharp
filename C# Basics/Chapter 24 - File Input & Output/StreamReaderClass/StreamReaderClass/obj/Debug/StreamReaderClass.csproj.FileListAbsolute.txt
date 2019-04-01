@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\bin\Debug\StreamReaderClass.exe.config
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\bin\Debug\StreamReaderClass.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\bin\Debug\StreamReaderClass.pdb
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\obj\Debug\StreamReaderClass.csprojResolveAssemblyReference.cache
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\obj\Debug\StreamReaderClass.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\StreamReaderClass\StreamReaderClass\obj\Debug\StreamReaderClass.pdb

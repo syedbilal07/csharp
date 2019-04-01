@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningClass\DefiningClass\bin\Debug\DefiningClass.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningClass\DefiningClass\bin\Debug\DefiningClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningClass\DefiningClass\bin\Debug\DefiningClass.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningClass\DefiningClass\obj\Debug\DefiningClass.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningClass\DefiningClass\obj\Debug\DefiningClass.pdb

@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\bin\Debug\RegularExpression2.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\obj\Debug\RegularExpression2.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\bin\Debug\RegularExpression2.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\bin\Debug\RegularExpression2.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\obj\Debug\RegularExpression2.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\RegularExpression2\RegularExpression2\obj\Debug\RegularExpression2.pdb

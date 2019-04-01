@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Queue\Collections-Queue\bin\Debug\Collections-Queue.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Queue\Collections-Queue\bin\Debug\Collections-Queue.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Queue\Collections-Queue\bin\Debug\Collections-Queue.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Queue\Collections-Queue\obj\Debug\Collections-Queue.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-Queue\Collections-Queue\obj\Debug\Collections-Queue.pdb

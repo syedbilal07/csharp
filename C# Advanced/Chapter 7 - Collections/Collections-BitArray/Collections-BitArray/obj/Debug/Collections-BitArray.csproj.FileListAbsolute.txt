@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\bin\Debug\Collections-BitArray.exe.config
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\bin\Debug\Collections-BitArray.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\bin\Debug\Collections-BitArray.pdb
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\obj\Debug\Collections-BitArray.csprojResolveAssemblyReference.cache
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\obj\Debug\Collections-BitArray.exe
+C:\Users\Syed Bilal\documents\visual studio 2015\Projects\Collections-BitArray\Collections-BitArray\obj\Debug\Collections-BitArray.pdb

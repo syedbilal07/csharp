@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\bin\Debug\TheMainThread.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\bin\Debug\TheMainThread.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\bin\Debug\TheMainThread.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\obj\Debug\TheMainThread.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\obj\Debug\TheMainThread.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\TheMainThread\TheMainThread\obj\Debug\TheMainThread.pdb

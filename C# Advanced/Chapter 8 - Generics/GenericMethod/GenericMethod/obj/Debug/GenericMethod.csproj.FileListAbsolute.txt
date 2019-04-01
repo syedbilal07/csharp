@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\bin\Debug\GenericMethod.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\GenericMethod\GenericMethod\obj\Debug\GenericMethod.pdb

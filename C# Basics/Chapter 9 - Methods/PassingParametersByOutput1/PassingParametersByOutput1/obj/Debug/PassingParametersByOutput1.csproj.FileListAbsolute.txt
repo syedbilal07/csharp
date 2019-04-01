@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\PassingParametersByOutput1\PassingParametersByOutput1\bin\Debug\PassingParametersByOutput1.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\PassingParametersByOutput1\PassingParametersByOutput1\bin\Debug\PassingParametersByOutput1.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PassingParametersByOutput1\PassingParametersByOutput1\bin\Debug\PassingParametersByOutput1.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\PassingParametersByOutput1\PassingParametersByOutput1\obj\Debug\PassingParametersByOutput1.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\PassingParametersByOutput1\PassingParametersByOutput1\obj\Debug\PassingParametersByOutput1.pdb

@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\bin\Debug\ConditionalDirectives.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\bin\Debug\ConditionalDirectives.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\bin\Debug\ConditionalDirectives.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\obj\Debug\ConditionalDirectives.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\obj\Debug\ConditionalDirectives.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\ConditionalDirectives\ConditionalDirectives\obj\Debug\ConditionalDirectives.pdb

@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningANamespace\DefiningANamespace\bin\Debug\DefiningANamespace.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningANamespace\DefiningANamespace\bin\Debug\DefiningANamespace.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningANamespace\DefiningANamespace\bin\Debug\DefiningANamespace.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningANamespace\DefiningANamespace\obj\Debug\DefiningANamespace.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\DefiningANamespace\DefiningANamespace\obj\Debug\DefiningANamespace.pdb

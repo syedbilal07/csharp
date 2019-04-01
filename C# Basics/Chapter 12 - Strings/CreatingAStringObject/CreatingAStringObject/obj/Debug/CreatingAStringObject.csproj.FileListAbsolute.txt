@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\bin\Debug\CreatingAStringObject.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\obj\Debug\CreatingAStringObject.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\bin\Debug\CreatingAStringObject.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\bin\Debug\CreatingAStringObject.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\obj\Debug\CreatingAStringObject.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\CreatingAStringObject\CreatingAStringObject\obj\Debug\CreatingAStringObject.pdb

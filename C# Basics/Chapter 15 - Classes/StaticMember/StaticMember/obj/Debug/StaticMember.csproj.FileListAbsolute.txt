@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\StaticMember\StaticMember\bin\Debug\StaticMember.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\StaticMember\StaticMember\bin\Debug\StaticMember.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\StaticMember\StaticMember\bin\Debug\StaticMember.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\StaticMember\StaticMember\obj\Debug\StaticMember.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\StaticMember\StaticMember\obj\Debug\StaticMember.pdb

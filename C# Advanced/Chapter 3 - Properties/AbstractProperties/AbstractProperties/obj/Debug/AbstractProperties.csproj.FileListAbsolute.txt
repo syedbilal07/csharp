@@ -1,0 +1,5 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\AbstractProperties\AbstractProperties\bin\Debug\AbstractProperties.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\AbstractProperties\AbstractProperties\bin\Debug\AbstractProperties.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\AbstractProperties\AbstractProperties\bin\Debug\AbstractProperties.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\AbstractProperties\AbstractProperties\obj\Debug\AbstractProperties.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\AbstractProperties\AbstractProperties\obj\Debug\AbstractProperties.pdb

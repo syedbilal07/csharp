@@ -1,0 +1,6 @@
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\bin\Debug\Collections-SortedList.exe.config
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\bin\Debug\Collections-SortedList.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\bin\Debug\Collections-SortedList.pdb
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\obj\Debug\Collections-SortedList.csprojResolveAssemblyReference.cache
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\obj\Debug\Collections-SortedList.exe
+c:\users\syed bilal\documents\visual studio 2015\Projects\Collections-SortedList\Collections-SortedList\obj\Debug\Collections-SortedList.pdb
